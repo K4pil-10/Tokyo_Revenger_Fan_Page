@@ -21,6 +21,9 @@
     <li>E-mail, footer, link to link, nav-bar, toggle, music etc.</li>
   </ul>
 </h3>
+
+<h2>ScreenShoots: </h2>
+<img src="https://cdn.phototourl.com/free/2026-09-05-d202ee51-3f7b-4d07-a93c-362588d9eb49.png">
 <h2>Live Demo:</h2>
 <h3>
   <a href="https://tokyo-revenger-fanpage.vercel.app/">https://tokyo-revenger-fanpage.vercel.app/</a>
